@@ -1052,6 +1052,7 @@ img {
 
   .footer__social {
     order: 1;
+    margin-right: 2rem;
   }
 
 }
